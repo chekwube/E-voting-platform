@@ -1,0 +1,81 @@
+body{
+    padding-top: 250px;
+    background-color: snow;
+}
+
+body#home_body{
+    padding-top: 5px;
+}
+
+.jumbotron{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    height: 500px;
+    width: 750px;
+}
+
+body > div > div > h2{
+    color: #225680;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+body > div > diiv#header{
+    style:background-color;
+    height:50px;
+    width:auto;
+}
+
+#reg{
+    padding-top: 8px;
+    text-align: center;
+    background-color: whitesmoke;
+    width: 150px;
+    height:40px;
+}
+
+#but{
+    margin-bottom: 50px;
+    color:#1c59a4;
+}
+
+.nav.nav-pills{
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+body > div > div#header{
+    margin-bottom: 60px;
+}
+
+body > div > div > div.jumbotron{
+    height: 350px;
+    width: 450px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 5px;
+    color: #1c59a4;
+}
+
+body > div > div > form > div > label{
+    color: #1c59a4;
+}
+
+th{
+    color: #1c59a4;
+    text-align: center;
+}
+
+img{
+    width:150px;
+    height:150px;
+}
+
+body > div > div > ul > li > a > img{
+    width:70px;
+    height:35px;
+}
+
